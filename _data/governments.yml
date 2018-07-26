@@ -48,6 +48,8 @@ Australia:
   - treasury-aus
   - victoriangovernment
   - wamuseum
+  - datavicgovau
+  
 
 Belgium:
   - belgianpolice
@@ -140,6 +142,8 @@ Canada:
   - thecityofcalgary
   - VilledeMontreal
   - wet-boew
+  - ongov
+  
 
 Catalonia:
   - AjuntamentdeBarcelona
@@ -230,7 +234,8 @@ France:
   - sgmap-agd
   - SocialGouv
   - strasbourg
-
+  - geodatagouv
+  
 French Polynesia:
   - sipf
 
@@ -248,6 +253,7 @@ Hong Kong:
 
 India:
   - itschool
+  - dataportalindia
 
 International:
   - EL-BID
@@ -267,6 +273,8 @@ Italy:
   - PloneGov-IT
   - RegioneER
   - TeamDigitale
+  - italia
+  
 
 Japan:
   - city-of-kobe
@@ -306,6 +314,8 @@ Mexico:
   - mxabierto
   - profeco
   - redoaxacadetodos
+  - plataformapreventiva
+  - inaimexico  
 
 New Zealand:
   - CanterburyRegionalCouncil
@@ -370,6 +380,9 @@ Saudi Arabia:
 Singapore:
   - govtechsg
   - moexmen
+  - datagovsg
+  - gdsace
+  - govtechstacksg  
 
 South Africa:
   - eddZA
@@ -415,6 +428,8 @@ Switzerland:
   - ogdch
   - sitn
   - swiss-gov
+  - opendata-swiss
+  - opendatazurich  
 
 The Netherlands:
   - Amsterdam
@@ -432,6 +447,7 @@ The Netherlands:
   - StichtingHergebruikOverheid
   - TweedeKamer
   - zaanstad
+  - amsterdamdata
 
 U.K. Central:
   - alphagov
@@ -517,7 +533,8 @@ U.K. Councils:
   - warwickshire
   - wealden
   - west-berkshire-council
-
+  - unifiedgov
+  
 U.S. City:
   - austincodeit
   - Baltimore-City-EGIS
@@ -745,6 +762,13 @@ U.S. Federal:
   - visionworkbench
   - WFMRDA
   - whitehouse
+  - worldwindlabs
+  - usg-website-templates
+  - distributedopenunifiedgovernmentnetwork
+  - usgs-vizlab
+  - nasadatanauts
+  - digitalgov
+  - cdcgov  
 
 U.S. Military and Intelligence:
   - afseo
